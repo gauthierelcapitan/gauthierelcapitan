@@ -1,9 +1,3 @@
-- 👋 Hi, 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 Hi 👋 I’m @gauthierelcapitan
 ===============================
@@ -12,6 +6,7 @@ Senior Software Developer | Outdoor Athlete
 ---------------
 
 * 🌍  I'm based in Chamonix
+* 🌍  [www.gauthiercart.fr](https://gauthiercart.fr)
 * ✉️  You can contact me at [gauthier.cart@gmail.com](mailto:gauthier.cart@gmail.com)
 
 <a href="https://twitter.com/CartGauthier" target="_blank" rel="noreferrer"><img
