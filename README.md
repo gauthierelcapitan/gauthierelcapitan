@@ -1,12 +1,16 @@
 
-Hi 👋 I’m @gauthierelcapitan
+Hi 👋 I’m @gauthierelcapitan (He/Him)
 ===============================
 
-Senior Software Developer | Outdoor Athlete
+Senior Software Developer | Outdoor Athlete | Ex-@UTMBMontBlanc | Ex-#LiveTrail
 ---------------
 
 * 🌍  I'm based in Chamonix
-* 🌍  [www.gauthiercart.fr](https://gauthiercart.fr)
+* 🏃🏽  Ex-@UTMBMontBlanc, Ex-#LiveTrail
+* 🧌  I'm a tamer of code and the datas
+* 📰  Check my [Curriculum Vitae](https://gauthiercart.fr/resume)
+* 🌐  Check my website : [www.gauthiercart.fr](https://gauthiercart.fr)
+
 * ✉️  You can contact me at [gauthier.cart@gmail.com](mailto:gauthier.cart@gmail.com)
 
 <a href="https://twitter.com/CartGauthier" target="_blank" rel="noreferrer"><img
