@@ -2,7 +2,7 @@
 Hi 👋 I’m @gauthierelcapitan (He/Him)
 ===============================
 
-Senior Software Developer | Outdoor Athlete | Ex-@UTMBMontBlanc | Ex-#LiveTrail
+Senior Software Developer | Outdoor Athlete
 ---------------
 
 * 🌍  I'm based in Chamonix
