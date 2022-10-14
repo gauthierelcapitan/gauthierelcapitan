@@ -7,8 +7,7 @@ Senior Software Developer | Outdoor Athlete | Ex-@UTMBMontBlanc | Ex-#LiveTrail
 
 * 🌍  I'm based in Chamonix
 * 🏃🏽  Ex-@UTMBMontBlanc, Ex-#LiveTrail
-* 🧌  I'm a tamer of code and the datas
-* 📰  Check my [Curriculum Vitae](https://gauthiercart.fr/resume)
+* 📰  Check my resume : [curriculum vitae](https://gauthiercart.fr/resume)
 * 🌐  Check my website : [www.gauthiercart.fr](https://gauthiercart.fr)
 
 * ✉️  You can contact me at [gauthier.cart@gmail.com](mailto:gauthier.cart@gmail.com)
